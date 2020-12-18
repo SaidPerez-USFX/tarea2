@@ -1,20 +1,22 @@
-[
-    {
-       "nombre": "EL exorcista",
-       "director": "Pepito Lopez",
-       "anio": 1999,
-       "para_menores": false
-    },
-    {
-       "nombre": "El Rey León",
-       "director": "Walt Disney",
-       "anio": 1995,
-       "para_menores": true
-    },
-    {
-       "nombre": "Power Rangers",
-       "director": "Maria Farján",
-       "anio": 2006,
-       "para_menores": true
-    }
-]
+{
+    "peliculas":[
+        {
+            "nombre": "EL exorcista",
+            "director": "Pepito Lopez",
+            "anio": 1999,
+            "para_menores": false
+         },
+         {
+            "nombre": "El Rey León",
+            "director": "Walt Disney",
+            "anio": 1995,
+            "para_menores": true
+         },
+         {
+            "nombre": "Power Rangers",
+            "director": "Maria Farján",
+            "anio": 2006,
+            "para_menores": true
+         }
+    ]
+}
